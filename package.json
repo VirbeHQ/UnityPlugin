@@ -1,6 +1,6 @@
 {
   "name": "ai.virbe.plugin.unity",
-  "version": "2.0.27",
+  "version": "2.0.28",
   "displayName": "Virbe Plugin",
   "description": "SDK provide easy way to integrate virtual beings from Virbe Hub in to Unity project.",
   "unity": "2021.2",
